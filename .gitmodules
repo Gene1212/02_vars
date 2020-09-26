@@ -1,0 +1,3 @@
+[submodule "yeGene"]
+	path = yeGene
+	url = https://github.com/Gene1212/02_vars.git
